@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "A600ROM")(type "KiCad")(uri "${KIPRJMOD}/A600ROM.kicad_sym")(options "")(descr ""))
+)
