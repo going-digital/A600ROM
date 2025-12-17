@@ -1,3 +1,11 @@
 hardware/A600ROM-backups
 hardware/fp-info-cache
 *.bak
+.DS_Store
+.vscode/settings.json
+firmware/.vscode/settings.json
+/firmware/.zig-cache
+/hardware/jlcpcb
+/hardware/pico400-backups
+/images
+manual/M29FxxFT_FB-3680729.pdf

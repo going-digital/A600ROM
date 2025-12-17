@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
+  (lib (name "rpi-lib-kicad-rp235x")(type "KiCad")(uri "${KIPRJMOD}/rpi-lib-kicad/footprints/rpi-lib-kicad-rp235x.pretty")(options "")(descr ""))
   (lib (name "A600ROM")(type "KiCad")(uri "${KIPRJMOD}/A600ROM.pretty")(options "")(descr ""))
 )
